@@ -1,0 +1,85 @@
+@charset "utf-8";
+/* CSS Document */
+
+.wrapper{width:800px;
+        margin-left:auto;
+        margin-right:auto;}
+
+body{font-family:courier;
+;}
+
+.h1 {text-align:center;
+    font-size:20px;
+    border-bottom:solid;
+    border-top:solid;
+    border:dashed;
+    border-left:none;
+    border-right:none;
+    padding-top:none;
+    border-color:;
+    letter-spacing:8px;}
+
+.navlist {display:inline;
+    padding:10px;
+    letter-spacing:-1px;
+    word-spacing:-7px;}
+
+#navbar {text-align:center;
+        font-size:20px;
+        margin-left:-25px;
+        hover:pink;
+}
+
+
+a:link {
+    color: black; 
+    background-color: transparent; 
+    text-decoration: none;
+}
+
+a:visited {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: teal;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+}
+        
+#introp {height:422px;
+        width:300px;
+        margin-top:30px;
+        color:black;
+        border:dotted;
+        border-color:pink;
+        padding:15px;
+        float:right;
+        }
+
+
+#w {font-size:30px;}
+
+#allfree {color:#ff5050;
+          color:rgb(255, 80, 80);
+          color:hsl(0, 100%, 66%)}
+
+#localstoo {color:teal;}
+
+#plist1 {letter-spacing:-1px;
+        font-size:14px;}
+
+.tealtext {color:teal;}
+
+.pinktext{color:pink;}
+
+#compasspicture {margin-left:79px;
+          margin-top:60px;}
